@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bertoso
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on anything that occupy space and has mass
 - 📫 How to reach me 
 
